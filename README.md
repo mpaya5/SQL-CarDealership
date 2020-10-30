@@ -1,7 +1,7 @@
 # SQL CAR DEALERSHIP
 
 This is a structured database for a car dealership.
-> Forgive me that it is in Spanish
+> Sorry but all the exercises are in Spanish
 
 You can find it here [Database](https://github.com/yumewebs/SQL-concesionario/blob/main/ejercicio01.sql)
 
